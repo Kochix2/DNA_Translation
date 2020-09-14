@@ -1,3 +1,3 @@
 # DNA_Translation
 
-practice Pyhon in scientific application from HAVARD online course
+Practice Pyhon in scientific application from HAVARD online course
